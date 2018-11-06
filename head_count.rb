@@ -1,0 +1,3 @@
+class HeadCount
+
+end

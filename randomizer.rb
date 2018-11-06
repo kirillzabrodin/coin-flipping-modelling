@@ -1,0 +1,3 @@
+class Randomizer
+
+end
